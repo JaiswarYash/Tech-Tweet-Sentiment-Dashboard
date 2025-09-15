@@ -1,0 +1,22 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+seaborn
+nltk
+textblob
+wordcloud
+mlflow
+snscrape
+requests
+joblib
+PyYAML
+python-box
+ensure
+python-dotenv
+tqdm
+jupyter
+ipykernel
+gunicorn==21.2.0
+-e .
